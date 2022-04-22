@@ -1,1 +1,4 @@
+This is test about merge two braches
+This is a process!!!
+
 This is a test file 
