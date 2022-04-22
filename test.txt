@@ -1,1 +1,3 @@
-This is a test file 
+This is a test file
+This is a merge that testing the file
+merge two branches 
