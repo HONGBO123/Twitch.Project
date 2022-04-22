@@ -1,0 +1,5 @@
+com/example/twitch/entity/response/Game$Builder.class
+com/example/twitch/entity/response/Game.class
+com/example/twitch/ApplicationConfig.class
+com/example/twitch/controller/GameController.class
+com/example/twitch/HelloServlet.class
